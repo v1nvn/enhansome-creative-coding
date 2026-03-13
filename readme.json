@@ -127,7 +127,7 @@
             "last_commit": "2026-02-25T11:26:05Z",
             "owner": "patriciogonzalezvivo",
             "repo": "lygia",
-            "stars": 3294
+            "stars": 3295
           }
         },
         {
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-12T02:24:49Z",
+            "last_commit": "2026-03-13T03:23:22Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 111297
+            "stars": 111323
           }
         },
         {
@@ -271,10 +271,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T00:53:53Z",
+            "last_commit": "2026-03-13T00:58:51Z",
             "owner": "BabylonJS",
             "repo": "Babylon.js",
-            "stars": 25193
+            "stars": 25198
           }
         },
         {
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T00:00:10Z",
+            "last_commit": "2026-03-13T01:47:12Z",
             "owner": "visgl",
             "repo": "luma.gl",
-            "stars": 2436
+            "stars": 2437
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2024-08-14T13:20:18Z",
             "owner": "theatre-js",
             "repo": "theatre",
-            "stars": 12218
+            "stars": 12230
           }
         }
       ],
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-01-06T15:11:17Z",
             "owner": "willianjusten",
             "repo": "awesome-audio-visualization",
-            "stars": 4986
+            "stars": 4987
           }
         },
         {
@@ -1243,7 +1243,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23111
+            "stars": 23115
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2026-02-25T14:56:04Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16272
+            "stars": 16278
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2026-03-10T15:20:14Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 73377
+            "stars": 73390
           }
         },
         {
@@ -1365,7 +1365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:06:10.916Z",
+    "last_updated": "2026-03-13T04:04:08.573Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "source_repository": "v1nvn/enhansome-creative-coding",
     "source_repository_description": null,
