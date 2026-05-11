@@ -1,6 +1,6 @@
-# Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,636 | 🐛 73 | 📅 2026-05-05 with stars
+# Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 465,042 | 🐛 73 | 📅 2026-05-05 with stars
 
-# [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,784 | 🐛 17 | 🌐 HTML | 📅 2026-04-01
+# [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding) ⭐ 14,789 | 🐛 17 | 🌐 HTML | 📅 2026-04-01
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
 
@@ -115,11 +115,11 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Frameworks • Libraries • Ecosystems
 
-* [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) ⭐ 5,251 | 🐛 60 | 🌐 JavaScript | 📅 2024-02-08 \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+* [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) ⭐ 5,252 | 🐛 60 | 🌐 JavaScript | 📅 2024-02-08 \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 * [Lygia](https://github.com/patriciogonzalezvivo/lygia) ⭐ 3,339 | 🐛 20 | 🌐 GLSL | 📅 2026-03-24 \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 * [Fragment.tools](https://github.com/raphaelameaume/fragment) ⭐ 919 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-07 \[Cross-platform] - A web development environment for creative coding.
 * [PixelKit](https://github.com/heestand-xyz/PixelKit) ⚠️ Archived \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-* [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) ⭐ 418 | 🐛 0 | 🌐 Swift | 📅 2026-05-09 \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+* [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) ⭐ 418 | 🐛 0 | 🌐 Swift | 📅 2026-05-10 \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 * [Processing](https://processing.org) \[Cross-platform] - Computer programming language and IDE for visual arts.
 * [py5](https://py5coding.org) \[Cross-platform] - A library that integrates Processing into the Python 3 ecosystem.
 * [Cinder](https://libcinder.org/) \[Cross-platform] - Open source library for professional-quality creative coding in C++.
@@ -170,15 +170,15 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Web Programming • Libraries
 
-* [three.js](https://github.com/mrdoob/three.js/) ⭐ 112,381 | 🐛 491 | 🌐 JavaScript | 📅 2026-05-09 - JavaScript 3D library.
-* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,470 | 🐛 27 | 🌐 TypeScript | 📅 2026-05-08 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
-* [Theatre.js](https://github.com/theatre-js/theatre) ⭐ 12,410 | 🐛 139 | 🌐 TypeScript | 📅 2024-08-14 - Motion design library with visual tools
+* [three.js](https://github.com/mrdoob/three.js/) ⭐ 112,398 | 🐛 486 | 🌐 JavaScript | 📅 2026-05-10 - JavaScript 3D library.
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js) ⭐ 25,475 | 🐛 28 | 🌐 TypeScript | 📅 2026-05-10 - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+* [Theatre.js](https://github.com/theatre-js/theatre) ⭐ 12,412 | 🐛 139 | 🌐 TypeScript | 📅 2024-08-14 - Motion design library with visual tools
 * [regl](https://github.com/regl-project/regl) ⭐ 5,545 | 🐛 128 | 🌐 JavaScript | 📅 2026-05-07 - Functional WebGL.
 * [Ammo.js](https://github.com/kripken/ammo.js/) ⭐ 4,509 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet physics engine to JavaScript using Emscripten.
-* [OGL.js](https://github.com/oframe/ogl) ⭐ 4,501 | 🐛 23 | 🌐 JavaScript | 📅 2025-04-13 - JavaScript 3D library (WebGL).
+* [OGL.js](https://github.com/oframe/ogl) ⭐ 4,502 | 🐛 23 | 🌐 JavaScript | 📅 2025-04-13 - JavaScript 3D library (WebGL).
 * [Oimo.js](https://github.com/lo-th/Oimo.js/) ⭐ 3,158 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08 - Lightweight 3d physics engine for javascript
 * [twgl](https://github.com/greggman/twgl.js) ⭐ 2,979 | 🐛 54 | 🌐 JavaScript | 📅 2025-10-13 - A tiny WebGL helper library.
-* [luma.gl](https://github.com/uber/luma.gl) ⭐ 2,442 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-09 - WebGL2 Components for Data Visualization.
+* [luma.gl](https://github.com/uber/luma.gl) ⭐ 2,443 | 🐛 21 | 🌐 TypeScript | 📅 2026-05-10 - WebGL2 Components for Data Visualization.
 * [lightgl.js](https://github.com/evanw/lightgl.js) ⭐ 1,572 | 🐛 18 | 🌐 JavaScript | 📅 2022-08-25 - A lightweight WebGL library.
 * [picogl.js](https://github.com/tsherif/picogl.js) ⭐ 804 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-07 - A minimal WebGL 2 rendering library.
 * [Alfrid](https://github.com/yiwenl/Alfrid) ⭐ 238 | 🐛 19 | 🌐 JavaScript | 📅 2025-07-16 - A WebGL tool set.
@@ -291,7 +291,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 #### Shaders • OpenGL • WebGL
 
-* [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) ⭐ 1,893 | 🐛 13 | 🌐 Java | 📅 2019-05-23 - Shader tutorial in the context of lwjgl-basics.
+* [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) ⭐ 1,894 | 🐛 13 | 🌐 Java | 📅 2019-05-23 - Shader tutorial in the context of lwjgl-basics.
 * [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) ⭐ 816 | 🐛 2 | 🌐 C++ | 📅 2020-03-26 - Good introduction to some of the OpenGL terms.
 * [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) ⭐ 465 | 🐛 1 | 🌐 JavaScript | 📅 2015-05-22 - Phong shading tutorial with glslify.
 * [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) ⭐ 367 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-23 - Using custom vertex and fragment shaders in ThreeJS.
@@ -461,7 +461,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ## Machine learning • Computer Vision • AI
 
 * [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) ⚠️ Archived - Explore how machine learning works, live in the browser.
-* [Machine Learning](https://github.com/CodingTrain/Machine-Learning) ⭐ 1,006 | 🐛 4 | 📅 2021-05-25 - Coding Train repo with links to machine learning resources.
+* [Machine Learning](https://github.com/CodingTrain/Machine-Learning) ⭐ 1,005 | 🐛 4 | 📅 2021-05-25 - Coding Train repo with links to machine learning resources.
 * [ml4a](https://ml4a.net/) - Machine learning for artists.
 * [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 * [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure JavaScript Multilingual OCR.
@@ -542,16 +542,16 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 75,272 | 🐛 150 | 📅 2026-05-05 - Curated list of public available datasets, mostly free resources.
-* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,254 | 🐛 87 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
-* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 16,619 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Curated list of game development resources to make magic happen.
+* [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 75,297 | 🐛 150 | 📅 2026-05-05 - Curated list of public available datasets, mostly free resources.
+* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,257 | 🐛 87 | 📅 2024-05-17 - Curated list of awesome computer vision resources.
+* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 16,627 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09 - Curated list of game development resources to make magic happen.
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,161 | 🐛 20 | 📅 2024-07-04 - A resource repository for 3D machine learning.
-* [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,013 | 🐛 9 | 🌐 Shell | 📅 2026-01-06 - Curated list about Audio Visualization.
+* [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,012 | 🐛 10 | 🌐 Shell | 📅 2026-01-06 - Curated list about Audio Visualization.
 * [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) ⭐ 3,220 | 🐛 6 | 📅 2026-05-04 - Curated list of livecoding languages and tools.
-* [Awesome opengl](https://github.com/eug/awesome-opengl) ⭐ 2,406 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
-* [Graphics resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,852 | 🐛 5 | 📅 2020-12-30 - Curated list of graphic programming resources.
-* [Awesome canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,816 | 🐛 7 | 🌐 Markdown | 📅 2024-07-09 - Curated list of awesome HTML5 canvas with examples, related articles and posts.
-* [Awesome webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,500 | 🐛 5 | 📅 2026-04-02 - Curated list of awesome WebGL libraries, resources and much more.
+* [Awesome opengl](https://github.com/eug/awesome-opengl) ⭐ 2,407 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
+* [Graphics resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - Curated list of graphic programming resources.
+* [Awesome canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,817 | 🐛 7 | 🌐 Markdown | 📅 2024-07-09 - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+* [Awesome webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,501 | 🐛 5 | 📅 2026-04-02 - Curated list of awesome WebGL libraries, resources and much more.
 * [Awesome graphics](https://github.com/ericjang/awesome-graphics) ⭐ 1,108 | 🐛 3 | 📅 2020-02-29 - Curated list of computer graphics tutorials and resources.
 * [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) ⭐ 975 | 🐛 2 | 📅 2020-01-31 - Curated list of recommended research papers and other readings on data visualization.
 * [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) ⭐ 615 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-17 - Curated list of Creative Technology groups, companies, studios, collectives and more.
