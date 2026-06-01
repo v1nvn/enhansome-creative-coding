@@ -127,7 +127,7 @@
             "last_commit": "2026-03-24T12:31:58Z",
             "owner": "patriciogonzalezvivo",
             "repo": "lygia",
-            "stars": 3349
+            "stars": 3350
           }
         },
         {
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-31T03:23:15Z",
+            "last_commit": "2026-06-01T06:20:43Z",
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 112762
+            "stars": 112783
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-05-29T17:19:09Z",
             "owner": "BabylonJS",
             "repo": "Babylon.js",
-            "stars": 25585
+            "stars": 25590
           }
         },
         {
@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T14:06:34Z",
+            "last_commit": "2026-06-01T00:49:04Z",
             "owner": "visgl",
             "repo": "luma.gl",
             "stars": 2452
@@ -318,7 +318,7 @@
             "last_commit": "2025-04-13T07:51:49Z",
             "owner": "oframe",
             "repo": "ogl",
-            "stars": 4521
+            "stars": 4523
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2024-08-14T13:20:18Z",
             "owner": "theatre-js",
             "repo": "theatre",
-            "stars": 12458
+            "stars": 12461
           }
         }
       ],
@@ -483,7 +483,7 @@
             "last_commit": "2019-05-23T20:55:00Z",
             "owner": "mattdesl",
             "repo": "lwjgl-basics",
-            "stars": 1894
+            "stars": 1893
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2021-03-20T20:52:04Z",
             "owner": "stackgl",
             "repo": "shader-school",
-            "stars": 4405
+            "stars": 4406
           }
         },
         {
@@ -845,7 +845,7 @@
             "last_commit": "2022-03-08T02:36:31Z",
             "owner": "Experience-Monks",
             "repo": "math-as-code",
-            "stars": 15480
+            "stars": 15478
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2024-07-09T19:18:02Z",
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1822
+            "stars": 1823
           }
         },
         {
@@ -1238,7 +1238,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23297
+            "stars": 23300
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-05-04T15:50:25Z",
             "owner": "toplap",
             "repo": "awesome-livecoding",
-            "stars": 3222
+            "stars": 3225
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2020-12-30T21:02:56Z",
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1852
           }
         },
         {
@@ -1303,7 +1303,7 @@
             "last_commit": "2026-04-09T21:12:22Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 16733
+            "stars": 16743
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-05-28T17:39:19Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 75692
+            "stars": 75715
           }
         },
         {
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:08:57.850Z",
+    "last_updated": "2026-06-01T06:46:20.918Z",
     "original_repository": "terkelg/awesome-creative-coding",
     "source_repository": "v1nvn/enhansome-creative-coding",
     "source_repository_description": null,
